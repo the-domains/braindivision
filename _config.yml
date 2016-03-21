@@ -1,0 +1,28 @@
+name: braindivision
+favicon: null
+layout_spectrum: 0.5848663828801364
+typography_spectrum: 0.051654789596796036
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.4284595288336277
+  lightness: 0.9954395543318242
+  saturation: 0.8581967062782496
+  rhythmicContrast: 0.34606307838112116
+purpose: []
